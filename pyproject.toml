@@ -4,9 +4,9 @@ name = "cookiecutter-pypackage"
 version = "1.1.1"
 description = "Cookiecutter template for a Python package"
 license = "BSD-3-Clause"
-authors = ["Xie Wei <ampedee@gmail.com>"]
+authors = ["Charles Dunda <s33dunda@gmail.com>"]
 readme = "README.md"
-repository = "https://github.com/waynerv/cookiecutter-pypackage"
+repository = "https://github.com/s33dunda/cookiecutter-pypackage"
 documentation = "https://waynerv.github.io/cookiecutter-pypackage/"
 keywords = ['cookiecutter', 'template', 'package']
 
@@ -38,7 +38,6 @@ dev = [
   "pyyaml",
   "mkdocs",
   "mkdocs-material",
-  "mkdocs-material-extensions",
   "pytest-cov",
   "tox",
   "mkdocs-include-markdown-plugin",
